@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <Layout>
       <React.Fragment>
-        <div className='container mx-auto  border-x-white shadow-xl  rounded-xl  border-radius: 40px shadow-white'>
+        <div className='container mx-auto   shadow-xl  rounded-xl  border-radius: 40px shadow-white'>
         <h1 className=" text-4xl font-bold text-slate-200 text-center py-4 mb-8" style={{marginTop: '50px'}}>URMASOFT</h1>
         </div >
         <div className="flex flex-full space-y-4 ...">
